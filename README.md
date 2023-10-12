@@ -1,2 +1,2 @@
 # java-login-page
-login page built with java
+I built a Login Page and a Welcome Page to a fictional bookstore using JAVA.
